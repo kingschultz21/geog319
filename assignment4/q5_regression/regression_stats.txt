@@ -1,0 +1,14 @@
+Residuals:
+      1       2       3       4       5       6 
+ -1.036 -13.067   3.690   8.595   5.258  -3.441 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 25.640480   4.484716   5.717  0.00463 ** 
+y            1.030347   0.005717 180.214 5.69e-09 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 8.643 on 4 degrees of freedom
+Multiple R-squared:  0.9999,	Adjusted R-squared:  0.9998 
+F-statistic: 3.248e+04 on 1 and 4 DF,  p-value: 5.687e-09
